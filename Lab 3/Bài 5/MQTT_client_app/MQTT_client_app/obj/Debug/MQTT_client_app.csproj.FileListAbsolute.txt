@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\MQTT_client_app\MQTT_client_app\bin\Debug\MQTT_client_app.exe.config
+C:\Users\ASUS\source\repos\MQTT_client_app\MQTT_client_app\bin\Debug\MQTT_client_app.exe
+C:\Users\ASUS\source\repos\MQTT_client_app\MQTT_client_app\bin\Debug\MQTT_client_app.pdb
+C:\Users\ASUS\source\repos\MQTT_client_app\MQTT_client_app\bin\Debug\M2Mqtt.Net.dll
+C:\Users\ASUS\source\repos\MQTT_client_app\MQTT_client_app\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\MQTT_client_app\MQTT_client_app\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\ASUS\source\repos\MQTT_client_app\MQTT_client_app\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\source\repos\MQTT_client_app\MQTT_client_app\obj\Debug\MQTT_client_app.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\MQTT_client_app\MQTT_client_app\obj\Debug\MQTT_client_app.MQTT_Client_Form.resources
+C:\Users\ASUS\source\repos\MQTT_client_app\MQTT_client_app\obj\Debug\MQTT_client_app.Properties.Resources.resources
+C:\Users\ASUS\source\repos\MQTT_client_app\MQTT_client_app\obj\Debug\MQTT_client_app.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\MQTT_client_app\MQTT_client_app\obj\Debug\MQTT_client_app.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MQTT_client_app\MQTT_client_app\obj\Debug\MQTT_cli.E38BDEC7.Up2Date
+C:\Users\ASUS\source\repos\MQTT_client_app\MQTT_client_app\obj\Debug\MQTT_client_app.exe
+C:\Users\ASUS\source\repos\MQTT_client_app\MQTT_client_app\obj\Debug\MQTT_client_app.pdb
